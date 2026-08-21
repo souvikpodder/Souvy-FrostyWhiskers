@@ -1,0 +1,10 @@
+{
+  "RecipeSpec": {
+    "Products": [
+      {
+        "Id": "Water",
+        "Amount": 5
+      }
+    ]
+  }
+}

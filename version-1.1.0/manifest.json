@@ -1,0 +1,14 @@
+{
+  "Name": "Zzz Souvy FrostyWhiskers",
+  "Version": "1.1.0",
+  "Id": "Souvy.FrostyWhiskers",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "This mod overwrites and balances building items for FrostyWhiskers",
+  "RequiredMods": [
+    {
+      "Id": "Lapantoufleagic.FrostyWhiskersFaction",
+      "MinimumVersion": "1.0.0"
+    }
+  ],
+  "OptionalMods": []
+}

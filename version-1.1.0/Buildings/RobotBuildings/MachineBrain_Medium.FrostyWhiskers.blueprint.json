@@ -1,0 +1,14 @@
+{
+  "RangedEffectBuildingSpec": {
+    "EffectRadius": 100
+  },
+  "ContinuousEffectBuildingSpec": {
+    "Effects": [
+      {
+        "NeedId": "Network",
+        "PointsPerHour": 20.0,
+        "SatisfyToMaxValue": false
+      }
+    ]
+  }
+}

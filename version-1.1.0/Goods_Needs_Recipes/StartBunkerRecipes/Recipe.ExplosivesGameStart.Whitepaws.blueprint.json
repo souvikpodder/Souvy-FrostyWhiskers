@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "ExplosivesGameStart",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Explosives.PluralDisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [
+      {
+        "Id": "Fish",
+        "Amount": 20
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Berries",
+        "Amount": 20
+      },
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 2,
+    "Icon": "Sprites/Goods/ExplosivesIcon"
+  }
+}

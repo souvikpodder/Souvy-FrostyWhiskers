@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "GoldBar_P_Ironworks",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.GoldBar.DisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [
+      {
+        "Id": "GoldDust",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "GoldBar",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Water",
+    "CyclesFuelLasts": 5,
+    "FuelCapacity": 5,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/Whitepaws Sprites/Goods/GoldBar"
+  }
+}

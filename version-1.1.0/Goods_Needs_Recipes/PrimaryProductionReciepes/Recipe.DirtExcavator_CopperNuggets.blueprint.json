@@ -1,0 +1,21 @@
+{
+  "RecipeSpec": {
+    "Id": "DirtExcavator_CopperNuggets",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.CopperNuggets.PluralDisplayName",
+    "CycleDurationInHours": 4.0,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "CopperNuggets",
+        "Amount": 20
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 15,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/CopperNugget"
+  }
+}

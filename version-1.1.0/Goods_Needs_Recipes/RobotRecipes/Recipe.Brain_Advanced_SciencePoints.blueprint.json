@@ -1,5 +1,16 @@
 {
   "RecipeSpec": {
-    "ProducedSciencePoints": 250
+    "Id": "Brain_Advanced_SciencePoints",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Science.SciencePoints",
+    "CycleDurationInHours": 0.3333,
+    "Ingredients": [],
+    "Products": [],
+    "ProducedSciencePoints": 300,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "UI/Images/Game/science-icon"
   }
 }

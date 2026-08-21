@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "Fishoil",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Fishoil.PluralDisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [
+      {
+        "Id": "Fish",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Fishoil",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Fishoil"
+  }
+}

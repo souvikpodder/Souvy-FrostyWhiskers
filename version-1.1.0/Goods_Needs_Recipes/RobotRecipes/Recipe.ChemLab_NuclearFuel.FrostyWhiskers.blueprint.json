@@ -1,0 +1,38 @@
+{
+  "RecipeSpec": {
+    "Id": "ChemLab_NuclearFuel",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.NuclearFuel.DisplayName",
+    "CycleDurationInHours": 16.0,
+    "Ingredients": [
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      },
+      {
+        "Id": "Rock",
+        "Amount": 40
+      },
+      {
+        "Id": "SulfuricAcid",
+        "Amount": 50
+      },
+      {
+        "Id": "Badwater",
+        "Amount": 50
+      }
+    ],
+    "Products": [
+      {
+        "Id": "NuclearFuel",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 2,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Plastic"
+  }
+}

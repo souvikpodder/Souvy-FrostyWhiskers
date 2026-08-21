@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "CarbonMill_CarbonFiber",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.CarbonFiber.PluralDisplayName",
+    "CycleDurationInHours": 1.6667,
+    "Ingredients": [
+      {
+        "Id": "Water",
+        "Amount": 20
+      },
+      {
+        "Id": "SulfuricAcid",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "CarbonFiber",
+        "Amount": 20
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/CarbonMesh"
+  }
+}

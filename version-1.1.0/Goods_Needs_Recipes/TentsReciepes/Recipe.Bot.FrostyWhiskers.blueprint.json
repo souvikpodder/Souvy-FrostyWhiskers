@@ -1,0 +1,37 @@
+{
+  "RecipeSpec": {
+    "Id": "Bot.FrostyWhiskers",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Bot.DisplayName.IronTeeth",
+    "CycleDurationInHours": 80.0,
+    "Ingredients": [
+      {
+        "Id": "NuclearFuel",
+        "Amount": 1
+      },
+      {
+        "Id": "GoldBar",
+        "Amount": 1
+      },
+      {
+        "Id": "CopperBar",
+        "Amount": 4
+      },
+      {
+        "Id": "MetalBlock",
+        "Amount": 4
+      },
+      {
+        "Id": "Nanobot",
+        "Amount": 50
+      }
+    ],
+    "Products": [],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 2,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/BotHead"
+  }
+}

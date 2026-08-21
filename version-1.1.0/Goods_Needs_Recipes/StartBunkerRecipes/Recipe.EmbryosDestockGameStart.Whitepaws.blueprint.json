@@ -1,0 +1,25 @@
+{
+  "RecipeSpec": {
+    "Id": "EmbryosDestockGameStart",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Reciepe.EmbryosDestockGameStart.PluralDisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "FrozenBeaverEmbryo",
+        "Amount": 40
+      },
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 2,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/FrozenBeaverEmbryo"
+  }
+}

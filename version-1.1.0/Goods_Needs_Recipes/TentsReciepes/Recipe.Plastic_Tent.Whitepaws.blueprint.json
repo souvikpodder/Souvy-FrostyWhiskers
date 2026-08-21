@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "Plastic_Tent",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Plastic.PluralDisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [
+      {
+        "Id": "PineResin",
+        "Amount": 3
+      },
+      {
+        "Id": "Badwater",
+        "Amount": 2
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Plastic",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Water",
+    "CyclesFuelLasts": 5,
+    "FuelCapacity": 10,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Plastic"
+  }
+}

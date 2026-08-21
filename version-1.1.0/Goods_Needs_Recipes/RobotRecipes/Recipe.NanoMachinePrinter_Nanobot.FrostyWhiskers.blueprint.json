@@ -1,0 +1,21 @@
+{
+  "RecipeSpec": {
+    "Id": "NanoMachinePrinter_Nanobot",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Nanobot.PluralDisplayName",
+    "CycleDurationInHours": 2.0,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "Nanobot",
+        "Amount": 20
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "GoldBar",
+    "CyclesFuelLasts": 5,
+    "FuelCapacity": 5,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Nanobot"
+  }
+}

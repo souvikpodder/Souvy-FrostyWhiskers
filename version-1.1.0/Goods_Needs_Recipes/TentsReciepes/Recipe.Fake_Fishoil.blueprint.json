@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "Fake_Fishoil",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.Fake_Fishoil.DisplayName",
+    "CycleDurationInHours": 0.6667,
+    "Ingredients": [
+      {
+        "Id": "Water",
+        "Amount": 2
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Fishoil",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/FakeFishOil"
+  }
+}

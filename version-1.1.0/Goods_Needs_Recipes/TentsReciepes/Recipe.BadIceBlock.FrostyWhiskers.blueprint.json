@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "BadIceBlock.FrostyWhiskers",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.BadIceBlock.Reciepe",
+    "CycleDurationInHours": 1.6667,
+    "Ingredients": [
+      {
+        "Id": "LargeIceShard",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "IceBlock",
+        "Amount": 10
+      },
+      {
+        "Id": "Snow",
+        "Amount": 10
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/Whitepaws Sprites/Goods/IceBlock"
+  }
+}

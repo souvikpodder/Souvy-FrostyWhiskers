@@ -1,0 +1,38 @@
+{
+  "RecipeSpec": {
+    "Id": "PlexiglassPress_Plexiglass",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Plexiglass.PluralDisplayName",
+    "CycleDurationInHours": 6.6667,
+    "Ingredients": [
+      {
+        "Id": "Water",
+        "Amount": 20
+      },
+      {
+        "Id": "PineResin",
+        "Amount": 10
+      },
+      {
+        "Id": "Badwater",
+        "Amount": 100
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Plexiglass",
+        "Amount": 8
+      },
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/Whitepaws Sprites/Goods/GlassPane"
+  }
+}

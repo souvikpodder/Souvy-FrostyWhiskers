@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "Fabricator_MetalBlock",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.IronBar.PluralDisplayName",
+    "CycleDurationInHours": 1.6667,
+    "Ingredients": [
+      {
+        "Id": "MetalPart",
+        "Amount": 20
+      }
+    ],
+    "Products": [
+      {
+        "Id": "MetalBlock",
+        "Amount": 10
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/IronBar"
+  }
+}

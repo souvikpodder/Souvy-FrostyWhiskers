@@ -1,13 +1,13 @@
 {
   "RecipeSpec": {
-    "Id": "PetroleumExtraction",
+    "Id": "Mine_MetalParts",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.Petroleum.DisplayName",
+    "DisplayLocKey": "Good.MetalPart.PluralDisplayName",
     "CycleDurationInHours": 0.3333,
     "Ingredients": [],
     "Products": [
       {
-        "Id": "Water",
+        "Id": "MetalPart",
         "Amount": 2
       }
     ],
@@ -15,7 +15,7 @@
     "Fuel": "",
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
-    "CyclesCapacity": 30,
-    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Petroleum"
+    "CyclesCapacity": 50,
+    "Icon": "Sprites/Goods/MetalPartIcon"
   }
 }

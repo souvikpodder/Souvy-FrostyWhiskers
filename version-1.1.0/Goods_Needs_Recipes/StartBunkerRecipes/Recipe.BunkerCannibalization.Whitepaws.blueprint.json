@@ -1,0 +1,29 @@
+{
+  "RecipeSpec": {
+    "Id": "BunkerCannibalization",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Recipe.BunkerCannibalization.PluralDisplayName",
+    "CycleDurationInHours": 2.6667,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "CopperBar",
+        "Amount": 14
+      },
+      {
+        "Id": "MetalBlock",
+        "Amount": 14
+      },
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 2,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/BunkerCannibalization"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "Fabricator_BadIceBlock",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Iceblock.PluralDisplayName",
+    "CycleDurationInHours": 0.3333,
+    "Ingredients": [
+      {
+        "Id": "LargeIceShard",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "IceBlock",
+        "Amount": 10
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "sprites/Whitepaws Sprites/Goods/IceBlock"
+  }
+}

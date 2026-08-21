@@ -1,13 +1,13 @@
 {
   "RecipeSpec": {
-    "Id": "PetroleumExtraction",
+    "Id": "Robot_Fishery_Fish",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.Petroleum.DisplayName",
-    "CycleDurationInHours": 0.3333,
+    "DisplayLocKey": "Good.Fish.PluralDisplayName",
+    "CycleDurationInHours": 0.0667,
     "Ingredients": [],
     "Products": [
       {
-        "Id": "Water",
+        "Id": "Fish",
         "Amount": 2
       }
     ],
@@ -15,7 +15,7 @@
     "Fuel": "",
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
-    "CyclesCapacity": 30,
-    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Petroleum"
+    "CyclesCapacity": 10,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Fish"
   }
 }

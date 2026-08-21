@@ -1,13 +1,13 @@
 {
   "RecipeSpec": {
-    "Id": "PetroleumExtraction",
+    "Id": "BadwaterSlow_FW",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.Petroleum.DisplayName",
-    "CycleDurationInHours": 0.3333,
+    "DisplayLocKey": "Good.Badwater.PluralDisplayName",
+    "CycleDurationInHours": 0.5,
     "Ingredients": [],
     "Products": [
       {
-        "Id": "Water",
+        "Id": "Badwater",
         "Amount": 2
       }
     ],
@@ -15,7 +15,7 @@
     "Fuel": "",
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
-    "CyclesCapacity": 30,
-    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Petroleum"
+    "CyclesCapacity": 15,
+    "Icon": "sprites/Goods/BadwaterIcon"
   }
 }

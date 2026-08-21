@@ -1,0 +1,36 @@
+{
+  "RecipeSpec": {
+    "Id": "SadSoup_Fish",
+    "BackwardCompatibleIds": [
+      "SadSoup_Bug"
+    ],
+    "DisplayLocKey": "Good.SadSoup.PluralDisplayName",
+    "CycleDurationInHours": 0.3333,
+    "Ingredients": [
+      {
+        "Id": "PineResin",
+        "Amount": 1
+      },
+      {
+        "Id": "Fish",
+        "Amount": 1
+      },
+      {
+        "Id": "Snow",
+        "Amount": 4
+      }
+    ],
+    "Products": [
+      {
+        "Id": "SadSoup",
+        "Amount": 8
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Water",
+    "CyclesFuelLasts": 10,
+    "FuelCapacity": 10,
+    "CyclesCapacity": 15,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Fish"
+  }
+}

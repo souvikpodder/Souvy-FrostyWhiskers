@@ -1,13 +1,13 @@
 {
   "RecipeSpec": {
-    "Id": "PetroleumExtraction",
+    "Id": "InfiniteIceBlocks",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.Petroleum.DisplayName",
-    "CycleDurationInHours": 0.3333,
+    "DisplayLocKey": "Good.Iceblock.PluralDisplayName",
+    "CycleDurationInHours": 0.6667,
     "Ingredients": [],
     "Products": [
       {
-        "Id": "Water",
+        "Id": "IceBlock",
         "Amount": 2
       }
     ],
@@ -16,6 +16,6 @@
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
     "CyclesCapacity": 30,
-    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Petroleum"
+    "Icon": "sprites/Whitepaws Sprites/Goods/IceBlock"
   }
 }

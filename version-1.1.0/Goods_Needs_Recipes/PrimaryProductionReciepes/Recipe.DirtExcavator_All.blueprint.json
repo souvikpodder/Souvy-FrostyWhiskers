@@ -1,0 +1,37 @@
+{
+  "RecipeSpec": {
+    "Id": "DirtExcavator_All",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Recipe.DirtExcavator_All.FrostyWhiskers",
+    "CycleDurationInHours": 4.0,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "IceBlock",
+        "Amount": 8
+      },
+      {
+        "Id": "MetalPart",
+        "Amount": 12
+      },
+      {
+        "Id": "CopperNuggets",
+        "Amount": 20
+      },
+      {
+        "Id": "GoldDust",
+        "Amount": 2
+      },
+      {
+        "Id": "Rock",
+        "Amount": 8
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 15,
+    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Junk"
+  }
+}

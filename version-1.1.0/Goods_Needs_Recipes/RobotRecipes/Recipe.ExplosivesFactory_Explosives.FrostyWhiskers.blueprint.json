@@ -1,0 +1,38 @@
+{
+  "RecipeSpec": {
+    "Id": "ExplosivesFactory_Explosives",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Explosives.PluralDisplayName",
+    "CycleDurationInHours": 3.3333,
+    "Ingredients": [
+      {
+        "Id": "Fish",
+        "Amount": 40
+      },
+      {
+        "Id": "Water",
+        "Amount": 20
+      },
+      {
+        "Id": "Badwater",
+        "Amount": 120
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Berries",
+        "Amount": 80
+      },
+      {
+        "Id": "NuclearWaste",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 10,
+    "Icon": "Sprites/Goods/ExplosivesIcon"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "RecipeSpec": {
-    "Id": "PetroleumExtraction",
+    "Id": "DirtExcavator_GoldDust",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.Petroleum.DisplayName",
-    "CycleDurationInHours": 0.3333,
+    "DisplayLocKey": "Good.GoldDust.PluralDisplayName",
+    "CycleDurationInHours": 4.0,
     "Ingredients": [],
     "Products": [
       {
-        "Id": "Water",
+        "Id": "GoldDust",
         "Amount": 2
       }
     ],
@@ -15,7 +15,7 @@
     "Fuel": "",
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
-    "CyclesCapacity": 30,
-    "Icon": "sprites/FrostyWhiskers Sprites/Goods/Petroleum"
+    "CyclesCapacity": 15,
+    "Icon": "sprites/Whitepaws Sprites/Goods/GoldDust"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "BreedingPodSpec": {
+    "CycleLengthInDays": 0.25,
+    "CyclesUntilFullyGrown": 2
+  }
+}

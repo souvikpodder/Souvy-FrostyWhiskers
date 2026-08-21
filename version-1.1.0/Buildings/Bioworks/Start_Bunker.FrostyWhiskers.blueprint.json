@@ -1,0 +1,6 @@
+{
+  "BreedingPodNoInventorySpec": {
+    "CycleLengthInDays": 0.5,
+    "CyclesUntilFullyGrown": 1
+  }
+}
